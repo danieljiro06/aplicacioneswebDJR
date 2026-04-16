@@ -1,0 +1,29 @@
+* {
+    background-color: aqua;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div p {
+    flex-basis: 18%;
+    background-color: rgb(0, 204, 204);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: darkcyan;
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    border: 3px;
+    border-style: dashed;
+    border-color: darkcyan;
+}
